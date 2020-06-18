@@ -1,0 +1,31 @@
+a {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.fas.fa-tachometer-alt {
+  margin-right: .50rem;
+  margin-left: .0rem;
+}
+
+#icondash {
+  color: rgb(243,156,18)!important;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,.1);
+}
+
+.nav-link.item {
+  color: white;
+}
+
+.nav-link.item:hover {
+  color: white;
+  margin-left: 20px;
+}
+

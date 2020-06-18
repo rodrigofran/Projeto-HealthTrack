@@ -1,0 +1,72 @@
+.row.rowbutton {
+  text-align: center;
+}
+
+.btn-group, .btn-group-vertical {
+  position: relative;
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.bttable {
+}
+
+.row.rowpeso {
+  margin-top: 20px;
+}
+
+.dados1 {
+  float: top;
+}
+
+.selecttype {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#canto {
+}
+
+.iconhover:hover {
+}
+
+.selecttype:hover {
+  margin-top: -20px;
+}
+
+.col-md-5 {
+}
+
+.buttontable {
+  margin-right: 1px;
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #858796;
+}
+
+.buttoncel {
+  text-align: center;
+}
+
+#foodtop {
+  margin-top: -20px;
+}
+
+celcenter {
+  text-align: center;
+}
+
+#foodtopfood {
+  color: black;
+  font-weight: bold;
+}
+
+#atvtopatv {
+}
+
